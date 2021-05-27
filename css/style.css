@@ -16,6 +16,7 @@ header {
     margin-top: 30px;
 }
 
+
 /*Headline section*/
 
 .headline {
@@ -23,4 +24,11 @@ header {
     background-color: #e1d67a;
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+
+/*MAIN*/ 
+main {
+    height: 600px;
+    background-color: #0086fd;
 }
