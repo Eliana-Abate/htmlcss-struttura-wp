@@ -32,3 +32,8 @@ main {
     height: 600px;
     background-color: #0086fd;
 }
+
+.main-header {
+    height: 80px;
+    background-color: #abcfe7;
+}
